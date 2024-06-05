@@ -1,0 +1,12 @@
+{
+    "item.mod1.kost": "human bone",
+    "item.mod1.human": "human",
+    "item.mod1.nam": "nam",
+    "item.mod1.kop" : "kop",
+    "itemGroup.kam_tab" : "Kamev Vek",
+    "block.mod1.kamen_block": "Stone Face",
+    "block.mod1.kamen_zarosh": "Trava Stone",
+    "block.mod1.acacia": "Acacia",
+    "block.mod1.acacia_leaves": "Leaves Acacia",
+    "block.mod1.beacon_block": "Beacon Block"
+}

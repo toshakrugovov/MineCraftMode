@@ -1,0 +1,12 @@
+{
+    "item.mod1.kost": "Кость человека",
+    "item.mod1.human": "Просто дядька",
+    "item.mod1.nam": "Мясо на кости",
+    "item.mod1.kop" : "Копьё",
+    "itemGroup.Kamen Vek" : "Каменный век",
+    "block.mod1.kamen_block": "Камень с лицом",
+    "block.mod1.kamen_zarosh": "Заросший камень",
+    "block.mod1.acacia": "Акация",
+    "block.mod1.acacia_leaves": "Листва акации",
+    "block.mod1.beacon_block": "Светильный блок"
+}
